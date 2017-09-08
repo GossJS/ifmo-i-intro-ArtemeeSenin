@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE PORTFOLIO SYSTEM "portfolio.dtd">
+<PORTFOLIO OWNER="ARTEM SENIN">
+	<COMPETENCIES>
+		<COMPETENCY IN="HTML" VALUE="Good"/>
+		<COMPETENCY IN="JS" VALUE="Quite good"/>
+		<COMPETENCY IN="CSS" VALUE="Good"/>
+		<COMPETENCY IN="PHP" VALUE="Basic knowledge"/>
+		<COMPETENCY IN="MySQL" VALUE="Not bad"/>
+		<COMPETENCY IN="RegExp" VALUE="Good"/>
+		<COMPETENCY IN="Wordpress" VALUE="Good"/>
+		<COMPETENCY IN="Git" VALUE="Intermediate, not enough practice"/>
+		<COMPETENCY IN="SASS" VALUE="Quite good"/>
+		<COMPETENCY IN="Bootstrap" VALUE="Working with grids"/>
+	</COMPETENCIES>
+</PORTFOLIO>
